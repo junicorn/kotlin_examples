@@ -27,3 +27,5 @@ git clone https://github.com/junicorn/kotlin_examples.git
 
 - [Kotlin官网](http://kotlinlang.org/)
 - [中文文档](https://kotlin-zhcn.github.io)
+- [Git电子书](https://huanglizhuo.gitbooks.io/kotlin-in-chinese/content/)
+- [各种项目](https://kotlin.link/)
