@@ -1,5 +1,7 @@
 # Kotlin 示例项目
 
+该项目使用Maven构建，是Kotlin的入门示例程序，如果你有更好的编程代码片段，也欢迎分享。
+
 - hello-world：带你快速入门Kotlin
     - [Hello World](https://github.com/junicorn/kotlin_examples/blob/master/hello-world/src/main/kotlin/com/kotlin/Hello.kt)
     - [创建函数](https://github.com/junicorn/kotlin_examples/blob/master/hello-world/src/main/kotlin/com/kotlin/FunctionDemo.kt) / [详细文档](https://kotlin-zhcn.github.io/docs/reference/functions.html)
@@ -12,3 +14,16 @@
     - [When和区间](https://github.com/junicorn/kotlin_examples/blob/master/hello-world/src/main/kotlin/com/kotlin/WhenAndRange.kt) / [详细文档](https://kotlin-zhcn.github.io/docs/reference/control-flow.html#when-表达式)
     - [集合和Map](https://github.com/junicorn/kotlin_examples/blob/master/hello-world/src/main/kotlin/com/kotlin/CollectionAndMap.kt) / [详细文档](https://kotlin-zhcn.github.io/docs/reference/lambdas.html)
 - mixed-code-hello-world：和Java混合调用的例子
+
+## 使用
+
+```bash
+git clone https://github.com/junicorn/kotlin_examples.git
+```
+
+然后使用IDE导入，记得选择 `maven` 方式构建。
+
+## 其他资料
+
+- [Kotlin官网](http://kotlinlang.org/)
+- [中文文档](https://kotlin-zhcn.github.io)
